@@ -1,0 +1,48 @@
+# Node modules
+node_modules/
+
+# Next.js build output
+.next/
+out/
+dist/
+build/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Testing
+coverage/
+
+# Caches
+.cache/
+.parcel-cache/
+
+# TypeScript build info
+*.tsbuildinfo
+
+# Yarn PnP
+.pnp.*
+
+# Misc
+*.local
